@@ -1,5 +1,6 @@
 # 내가!
 생각노트.txt
+.env 
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
