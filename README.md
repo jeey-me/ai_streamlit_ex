@@ -10,6 +10,16 @@ pip install streamlit
 ```
 pip install pillow
 ```
+## 그림해설을 위해 transformers와 torch 설치 필요 
+```
+pip install transformers torch torchvision
+```
+
+## 실행방법 
+```
+streamlit run 파일명.py
+예시 => streamlit run 2-1.dalle_app.py
+```
 
 ## 실행 초기 화면
-<img src="images/default_view.PNG alt="초기화면">
+<img src="images/default_view.PNG alt="초기화면>
